@@ -1,0 +1,11 @@
+envVars:
+  - key: TOKEN
+    sync: false
+  - key: GUILD_ID
+    sync: false
+  - key: VOICE_ID
+    sync: false
+  - key: SELF_MUTE
+    value: "true"   # أو "false"
+  - key: SELF_DEAF
+    value: "false"  # أو "true"
