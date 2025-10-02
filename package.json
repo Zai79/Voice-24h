@@ -1,0 +1,16 @@
+{
+  "name": "discord-selfbot-voice",
+  "version": "1.0.1",
+  "description": "بوت تعليمي يدخل حساب ديسكورد في روم صوتي 24/7 على Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "@discordjs/voice": "^0.16.0",
+    "opusscript": "^0.0.8",
+    "tweetnacl": "^1.0.3",
+    "express": "^4.18.2"
+  }
+}
